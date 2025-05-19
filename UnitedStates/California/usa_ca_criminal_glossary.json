@@ -1,7 +1,7 @@
 [
   {
     "metadata": {
-      "dcterms:title": "US Courts Glossary",
+      "dcterms:title": "Criminal Glossary",
       "dcterms:language": "en",
       "dcterms:coverage": "USA",
       "dcterms:subject": [
@@ -16,10 +16,10 @@
       ],
       "dcterms:source": "https://www.sdcourt.ca.gov/sdcourt/criminal2/criminalglossary",
       "publiclaw:sourceModified": "unknown",
-      "publiclaw:sourceCreator": "San Diego Superior Court",
+      "publiclaw:sourceCreator": "Superior Court of California, County of San Diego",
       "dcterms:creator": "https://public.law",
       "dcterms:type": "Dataset",
-      "dcterms:modified": "2025-05-18",
+      "dcterms:modified": "2025-05-19",
       "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
       "dcterms:format": "application/json"
     },
