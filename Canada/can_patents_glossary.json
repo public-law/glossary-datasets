@@ -1,27 +1,27 @@
 [
   {
     "metadata": {
-      "dcterms_title": "Canadian Patent Glossary",
-      "dcterms_language": "en",
-      "dcterms_coverage": "CAN",
-      "dcterms_subject": [
+      "dcterms:title": "Canadian Patent Glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "CAN",
+      "dcterms:subject": [
         {
           "uri": "http://id.loc.gov/authorities/subjects/sh85098655",
-          "rdfs_label": "Patents"
+          "rdfs:label": "Patents"
         },
         {
           "uri": "https://www.wikidata.org/wiki/Q3039731",
-          "rdfs_label": "Patent Law"
+          "rdfs:label": "Patent Law"
         }
       ],
-      "dcterms_source": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/patents/glossary",
-      "publiclaw_sourceModified": "unknown",
-      "publiclaw_sourceCreator": "Canadian Intellectual Property Office",
-      "dcterms_creator": "https://public.law",
-      "dcterms_type": "Dataset",
-      "dcterms_modified": "2025-05-21",
-      "dcterms_license": "https://creativecommons.org/licenses/by/4.0/",
-      "dcterms_format": "application/json"
+      "dcterms:source": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/patents/glossary",
+      "publiclaw:sourceModified": "unknown",
+      "publiclaw:sourceCreator": "Canadian Intellectual Property Office",
+      "dcterms:creator": "https://public.law",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2025-05-21",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
     },
     "entries": [
       {
