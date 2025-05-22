@@ -1,0 +1,157 @@
+[
+  {
+    "metadata": {
+      "dcterms_title": "Canadian Patent Glossary",
+      "dcterms_language": "en",
+      "dcterms_coverage": "CAN",
+      "dcterms_subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85098655",
+          "rdfs_label": "Patents"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q3039731",
+          "rdfs_label": "Patent Law"
+        }
+      ],
+      "dcterms_source": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/patents/glossary",
+      "publiclaw_sourceModified": "unknown",
+      "publiclaw_sourceCreator": "Canadian Intellectual Property Office",
+      "dcterms_creator": "https://public.law",
+      "dcterms_type": "Dataset",
+      "dcterms_modified": "2025-05-21",
+      "dcterms_license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms_format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "Abstract",
+        "definition": "A brief summary of your invention."
+      },
+      {
+        "phrase": "Canadian Patent Office Record (CPOR)",
+        "definition": "TheCanadian Patent Office Recordis a weekly publication, containing various important notices and information on new issued patents, laid open to public inspection applications, Patent Cooperation Treaty (PCT) applications entering the National Phase, and patents that are available for licence or sale."
+      },
+      {
+        "phrase": "Claims",
+        "definition": "The parts of a patent that define the boundaries of patent protection."
+      },
+      {
+        "phrase": "Classification",
+        "definition": "A system of categorizing patent documents into groups of the same type of technology. Used to assist in searching patents."
+      },
+      {
+        "phrase": "Commissioner' notice",
+        "definition": "A notice send by the Commissioner to the Applicant/Patentee regarding an application/a patent requiring them to do an action or informing them of upcoming consequence if an action is not performed."
+      },
+      {
+        "phrase": "Convention priority",
+        "definition": "An international arrangement whereby the filing date of an application in one country can be claimed as the effective filing date of applications in other countries."
+      },
+      {
+        "phrase": "Copyright",
+        "definition": "Copyright is legal protection for literary, artistic, dramatic or musical works, computer programs, performer's performances, sound recordings, and communication signals."
+      },
+      {
+        "phrase": "Disclose",
+        "definition": "To make public information about your invention."
+      },
+      {
+        "phrase": "Due care",
+        "definition": "Some reinstatement of abandoned applications and the reversal of deemed expiry of patents will require the Commissioner to make a positive determination that a failure has occurred in spite of the due care required by the circumstances have been taken."
+      },
+      {
+        "phrase": "File",
+        "definition": "To present a formal application for a patent to the Patent Office."
+      },
+      {
+        "phrase": "Filing date",
+        "definition": "The date a patent application is received by the Patent Office."
+      },
+      {
+        "phrase": "First to File",
+        "definition": "A patent system in which the first inventor to file a patent application for a specific invention is entitled to the patent. In Canada and in most other countries, the first person to file has priority over other people claiming rights for the same invention. (See \"Minimum application requirements\" below)."
+      },
+      {
+        "phrase": "Industrial design",
+        "definition": "Legal protection against imitation of the shape, pattern, or ornamentation of an object."
+      },
+      {
+        "phrase": "Integrated circuit topography",
+        "definition": "Thethree-dimensionalconfigurations of the elements and interconnections embodied in an integrated circuit product."
+      },
+      {
+        "phrase": "Intellectual property",
+        "definition": "Ownership of the products of human creative endeavour."
+      },
+      {
+        "phrase": "Maintenance fee",
+        "definition": "Annual fee to keep a patent (or an application) in good standing. (Seefee table.)."
+      },
+      {
+        "phrase": "Minimum application requirements",
+        "definition": "To receive a filing date, you must submit the minimum requirements, which consist of:An explicit or implicit indication that the granting of a Canadianpatentis being sought;information allowing the identity of the applicant to be established (ie thenameof the applicant);information allowing the commissioner to contact the applicant (ie the applicant'saddress); andadocument, in any language, that on its face appears to describe an invention.The above do not make up a complete application. You cannot add new subject matter to the description."
+      },
+      {
+        "phrase": "Patent",
+        "definition": "A government grant giving the right to exclude others from making, using, or selling an invention."
+      },
+      {
+        "phrase": "Patent Cooperation Treaty (PCT)",
+        "definition": "An international treaty providing for standardized filing procedures for patents in the countries that have signed the treaty."
+      },
+      {
+        "phrase": "Patent Agent",
+        "definition": "An individual who holds a patent agent licence or a patent agent in training licence issued by the College of Patent Agents and Trademark Agents."
+      },
+      {
+        "phrase": "Patent Examiner",
+        "definition": "An official with technical expertise charged with the task of classifying a patent or an application, or of determining whether a patent application fulfils the requirements for a grant of patent."
+      },
+      {
+        "phrase": "Patent Office Action",
+        "definition": "An official written communication by the Patent Office on the merits of an application."
+      },
+      {
+        "phrase": "Patent Pending",
+        "definition": "A label sometimes affixed to a new product informing others that the inventor has applied for a patent and that legal protection from infringement (including retroactive rights) may be forthcoming."
+      },
+      {
+        "phrase": "Prior art",
+        "definition": "The body of existing patents or patent applications or any publication throughout the world, relevant to an application or patent."
+      },
+      {
+        "phrase": "Priority date",
+        "definition": "The filing date of a previously filed application that is claimed as the effective filing date of subject matter in a later filed application."
+      },
+      {
+        "phrase": "Reinstatement",
+        "definition": "A method of bringing an abandoned application back to life. Must be done within 12 months of the date of abandonment, and involves the payment of an extra fee."
+      },
+      {
+        "phrase": "Sequence listing",
+        "definition": "Sequence listing means, in respect of an invention, a part of the description of the application, which gives a detailed disclosure of the nucleotideand/oramino acid sequences and other available information."
+      },
+      {
+        "phrase": "Small entity",
+        "definition": "In respect to an invention, \"small entity\" means an entity that employs 50 or fewer people or that is a university. This does not include an entity that:Has transferred or licensed, or is under a contractual or other legal obligation to transfer or license, any right in the invention to an entity, other than a university, that employs more than 50 employees ; orHas transferred or licensed, or is under a contractual or other legal obligation to transfer or license, any right in the invention to an entity that employs 50 or fewer employees or that is a university, and has knowledge of any subsequent transfer or license of, or of any subsisting contractual or other legal obligation to transfer or license, any right in the invention to an entity, other than a university, that employs more than 50 employees."
+      },
+      {
+        "phrase": "Specification",
+        "definition": "Part of the patent application. It includes a detailed description of the invention and claims specifying the aspects of the invention for which protection is sought."
+      },
+      {
+        "phrase": "Subject matter",
+        "definition": "The technical content of a patent or patent application in the description, claims, and drawings."
+      },
+      {
+        "phrase": "Trademark",
+        "definition": "A word, symbol or design, or combination of these, used to distinguish goods or services of one person or organization from those of another."
+      },
+      {
+        "phrase": "WIPO",
+        "definition": "World Intellectual Property Organization."
+      }
+    ]
+  }
+]
