@@ -1,0 +1,377 @@
+[
+  {
+    "metadata": {
+      "dcterms:title": "Design Examiners Manual Glossary",
+      "dcterms:language": "en",
+      "dcterms:coverage": "AUS",
+      "dcterms:subject": [
+        {
+          "uri": "http://id.loc.gov/authorities/subjects/sh85067167",
+          "rdfs:label": "Intellectual property"
+        },
+        {
+          "uri": "https://www.wikidata.org/wiki/Q131257",
+          "rdfs:label": "Intellectual property"
+        }
+      ],
+      "dcterms:source": "https://manuals.ipaustralia.gov.au/design/glossary",
+      "publiclaw:sourceModified": "2024-10-14",
+      "publiclaw:sourceCreator": "IP Australia",
+      "dcterms:creator": "IP Australia",
+      "dcterms:type": "Dataset",
+      "dcterms:modified": "2025-05-22",
+      "dcterms:license": "https://creativecommons.org/licenses/by/4.0/",
+      "dcterms:format": "application/json"
+    },
+    "entries": [
+      {
+        "phrase": "ART",
+        "definition": "Administrative Review Tribunal."
+      },
+      {
+        "phrase": "Address for correspondence",
+        "definition": "An additional address to which IP Australia may forward correspondence. Note that this is not a requirement, whereas an address for service is a requirement."
+      },
+      {
+        "phrase": "Address for service",
+        "definition": "An address in either Australia or New Zealand where there can be legal service of any documents for the purposes of the Designs Act 2003."
+      },
+      {
+        "phrase": "Adverse report",
+        "definition": "A report issued by IP Australia where there is an issue with a file. Note that these reports are not final decisions and, depending on the circumstances, there may be options for the design owner to overcome the issues."
+      },
+      {
+        "phrase": "Agent",
+        "definition": "A person (often an IP professional) acting on behalf of an applicant or owner of a design."
+      },
+      {
+        "phrase": "ALRC",
+        "definition": "Australian Law Reform Commission; the author of ALRC Report No. 74, often referred to in the Designs Manual."
+      },
+      {
+        "phrase": "Assignment/assign",
+        "definition": "A transfer of ownership of a design. This must be in writing and signed by or on behalf of the owner."
+      },
+      {
+        "phrase": "Assignor/assignee",
+        "definition": "The ‘assignor’ is an owner who transfers ownership in a design to another person. The ‘assignee’ is that other person."
+      },
+      {
+        "phrase": "Attorney",
+        "definition": "See IP professional."
+      },
+      {
+        "phrase": "Authenticated document",
+        "definition": "A document such as a signed declaration or affidavit where a person attests to its truthfulness and correctness."
+      },
+      {
+        "phrase": "Awaiting examination",
+        "definition": "An examination of the design has been requested and the office has received the request. The task is yet to be assigned to an examiner."
+      },
+      {
+        "phrase": "Awaiting formalities",
+        "definition": "A request for registration or publication has been received. The task is yet to be assigned to a formalities assessor for decision."
+      },
+      {
+        "phrase": "Basic application",
+        "definition": "The application in another country which an applicant seeks to rely upon for Convention priority. See Convention."
+      },
+      {
+        "phrase": "Cease",
+        "definition": "The design registration ceases when (a) the term of registration has ended; (b) the registration was not renewed; (c) the registered design was examined and not found to be registrable; (d) a required fee was not paid when due; or (e) another relevant legislative basis was not met. A registered design which has not overcome the issues raised during an examination in submissions or otherwise will ‘cease’. When a registered design ceases, the registration comes to an end. See s 48."
+      },
+      {
+        "phrase": "Certified",
+        "definition": "A design is certified when its registration has been found valid though examination by IP Australia. The rights are now legally enforceable. See s 67."
+      },
+      {
+        "phrase": "Circumstances importing an obligation of confidence",
+        "definition": "Circumstances in which people who are given access to documents or artwork are obliged to not disclose that material to other persons or make it publicly available."
+      },
+      {
+        "phrase": "Citation, citeable",
+        "definition": "Where a design is too similar to a piece of ‘prior art’, this art is termed a ‘citation’ or ‘citeable’ prior art."
+      },
+      {
+        "phrase": "Class –",
+        "definition": "A class under the Australian and Locarno systems for categorising products. For example, automobiles are in class 12 whereas medical devices are in class 24. These classes assist people searching the register to check whether a business or person has already invented something similar to their product."
+      },
+      {
+        "phrase": "Commercial purposes",
+        "definition": "Sale, promotion or other business purposes."
+      },
+      {
+        "phrase": "Complex product",
+        "definition": "A product which consists of 2 or more parts which permit assembly and disassembly. See s 5."
+      },
+      {
+        "phrase": "Convention (Paris Convention), Convention country, Convention priority",
+        "definition": "Under international treaties, where a person has already applied for the same design in another country, they have 6 months after that filing to apply in another country and keep the same priority date for the subsequent countries. See s 5A. Australia is a party to the Paris Convention, so applicants who have applied overseas have the ability to apply in Australia for 6 months from the date of their overseas application. The first country must be a country mentioned in regulation 1.05."
+      },
+      {
+        "phrase": "Covering letter",
+        "definition": "A letter which applicants sometimes provide with their application giving additional information which may clarify the contents of the application."
+      },
+      {
+        "phrase": "Converted",
+        "definition": "The design application was filed as a transitional application under the 1906 Designs Act and, at the applicant’s request, is now treated as though it was filed under the 2003 Act. See s 159."
+      },
+      {
+        "phrase": "Declaration",
+        "definition": "A formal statement in writing declaring the contents to be true and correct, which is signed by the declarant. This is different to, for example, simply making a statement in a letter. Declarations are often used where an applicant or owner is required to evidence certain facts for an extension of time request in an examination or a hearing. IP Australia has its own form which can be used for these purposes."
+      },
+      {
+        "phrase": "Declaratory evidence",
+        "definition": "Evidence which has been declared as true rather than simply mentioned in a letter. In a declaration, the relevant facts are expressly asserted and declared as true and correct, in writing."
+      },
+      {
+        "phrase": "Deficiency",
+        "definition": "A shortcoming or area of non-compliance."
+      },
+      {
+        "phrase": "Delete (as in delete a design)",
+        "definition": "Where there are further designs in an application, the applicant may wish to ‘delete’ designs from the application. This is different from excluding a design."
+      },
+      {
+        "phrase": "Design",
+        "definition": "In relation to a product, means the overall appearance of the product resulting from one or more visual features of the product. See s 5 and s 8."
+      },
+      {
+        "phrase": "Devolution",
+        "definition": "Where, by operation of law, ownership in a design passes to another person."
+      },
+      {
+        "phrase": "Disclose/disclosed/disclosure",
+        "definition": "Make known to persons without an obligation of confidentiality."
+      },
+      {
+        "phrase": "Entitled person",
+        "definition": "A person mentioned in s 13 of the Act who is entitled to claim ownership of a design."
+      },
+      {
+        "phrase": "Error or omission",
+        "definition": "A mistake made or failure to complete an action that resulted in a relevant act not being completed in a prescribed time period."
+      },
+      {
+        "phrase": "Exclude (as in exclude a design)",
+        "definition": "Amend an application to no longer include a particular design or designs. The excluded design(s) can be included in a subsequent application and retain the priority date they would have had in the first (or initial) application. See also Further design."
+      },
+      {
+        "phrase": "Filing date",
+        "definition": "The date on which an applicant files for design protection and the filing meets minimum filing requirements (MFRs) (s 21). A design is not ‘filed’ until it meets the MFRs. See MFRs."
+      },
+      {
+        "phrase": "Force majeure",
+        "definition": "Something outside the control of any person, such as pandemics, natural disasters or war."
+      },
+      {
+        "phrase": "Formalities assessment",
+        "definition": "The tasks and checks that a formalities officer is required to do as part of determining whether a design application should be registered. It includes more than the formalities check."
+      },
+      {
+        "phrase": "Formalities check (as distinct from formalities assessment)",
+        "definition": "Legislative ‘checks’ that a formalities officer is required to consider as part of completing the formalities assessment. See regs 4.04 and 4.05."
+      },
+      {
+        "phrase": "Formalities officer",
+        "definition": "A decision-maker tasked with completing the formalities assessment of a design application."
+      },
+      {
+        "phrase": "Formalities notice",
+        "definition": "A notice sent to the applicant regarding a formalities issue where there is a shortcoming or area of non-compliance. Where a formalities notice is issued it is not the final decision regarding the file; the applicant will be given time to respond and correct any deficiencies. Very often, but not always, the issues in a formalities notice can be overcome. See s 41."
+      },
+      {
+        "phrase": "Further design",
+        "definition": "Where an application contains more designs than have been paid for it is said to include ‘further designs’. These are designs that have been disclosed in an application but have not been identified as separate designs."
+      },
+      {
+        "phrase": "Ground for revocation",
+        "definition": "A reason, found during examination, why the registered design should be revoked under the Act. These reasons are generally under s 15 – i.e. that the design is not new and distinctive."
+      },
+      {
+        "phrase": "Hearing officer",
+        "definition": "The officer who hears submissions and makes a decision in an IP Australia hearing requested by a customer. If a customer disagrees with the decision of an examiner, they can escalate the matter to a hearing."
+      },
+      {
+        "phrase": "Identifier (in the context of company names)",
+        "definition": "The full legal name of an applicant/owner of a design."
+      },
+      {
+        "phrase": "Indefinite dimension",
+        "definition": "A dimension of a product, such as its height, that is not expressed or defined. This results in that dimension not being fixed. This is commonly seen where a pattern is included as visual feature and repeats itself throughout the length and width of a product."
+      },
+      {
+        "phrase": "Infringement/infringe",
+        "definition": "An act defined in s 71 of the Act which breaches the rights of the owner of a design."
+      },
+      {
+        "phrase": "In grace period",
+        "definition": "An additional 6 months after the initial 5-year registration period of a design has ended and the design owner has not requested a renewal. During the grace period the owner can still request a renewal before the design ceases."
+      },
+      {
+        "phrase": "IP professional",
+        "definition": "A person who specialises in the area of intellectual property. This can be a registered patent or trade marks attorney or lawyer."
+      },
+      {
+        "phrase": "Issue estoppel",
+        "definition": "A common law rule where, once a person has stated something as being the case, they are unable to later assert otherwise. That is, they are bound by the statements they make. This principle does not clearly apply in the context of designs applications."
+      },
+      {
+        "phrase": "ITP (short for ‘invitation to pay’)",
+        "definition": "Where an owner makes a request for which there is a fee, the office will issue an invitation to pay in a formal written document."
+      },
+      {
+        "phrase": "Lapse",
+        "definition": "A design application that has not met the requirements for registration or publication in the time permitted will lapse – i.e. have no further effect. This typically occurs when a formalities notice is issued and the applicant or its agent does not address the issues within 2 months from the date of the notice."
+      },
+      {
+        "phrase": "Legal person/legal personality",
+        "definition": "A person (natural person or other entity) who is able to own property, sue and be sued. For example, a business name is not a legal person but the owner of a business name is a legal person."
+      },
+      {
+        "phrase": "Licence/license",
+        "definition": "Arrangement whereby the owner of an intellectual property right allows other persons to make use of that IP right. See Commercialise your IP."
+      },
+      {
+        "phrase": "Lien",
+        "definition": "A right to hold property until performance of an obligation such as payment of a debt. This is often a right not necessarily to sell the property but to withhold it until a debt is paid."
+      },
+      {
+        "phrase": "Locarno (agreement)",
+        "definition": "An international agreement between various countries regarding classification for the purposes of industrial designs."
+      },
+      {
+        "phrase": "MFRs (minimum filing requirements)",
+        "definition": "Details that must be provided before an application is taken as having been filed. The application does not have an official filing date until the MFRs are met. See reg 3.01."
+      },
+      {
+        "phrase": "Mosaicing",
+        "definition": "An impermissible practice during examination of a design where a decision-maker combines 2 or more different designs with only a few similarities with an owner’s design and decides that, in combination, those designs mean that the design under examination is not new and distinctive."
+      },
+      {
+        "phrase": "Natural person",
+        "definition": "A human being, as opposed an animal or a corporation or other non-human entity."
+      },
+      {
+        "phrase": "Notice of a trust",
+        "definition": "Words which appear to provide notice to the Registrar and public concerning ownership as a trustee. For example, the bolded words in ‘John Doe, as trustee for the Doe Trust’ constitute notice of a trust. An owner name for a design cannot include such words (because a trust cannot own a design)."
+      },
+      {
+        "phrase": "NOU (notice of underpayment)",
+        "definition": "­– a letter sent to an applicant where a payment falls short of the amount due."
+      },
+      {
+        "phrase": "Objection (in the context of examination)",
+        "definition": "A reason why a particular course of action (e.g. an extension of time) should not be allowed to proceed."
+      },
+      {
+        "phrase": "Original (or initial) application",
+        "definition": "The application to which amendments are requested."
+      },
+      {
+        "phrase": "Overall impression",
+        "definition": "The total impression of a registered design brought about by the various visual features."
+      },
+      {
+        "phrase": "Physical evidence",
+        "definition": "Physical copies of printed matter forming evidence as part of an examination or hearing."
+      },
+      {
+        "phrase": "Precautionary request for hearing",
+        "definition": "A provisional request to be heard on a decision by a formalities officer or examiner. This is usually provided together with submissions, stating that if the decision-maker disagrees with the submissions made, then the owner requests to be heard. This request will keep the design alive until a decision is made at a hearing regarding the contended point."
+      },
+      {
+        "phrase": "Prior art (base)",
+        "definition": "Any document or published material, online or in hard copy, which contains images of products the same as or similar to the design being examined. The prior art base comprises all designs that were publicly used in Australia before the priority date of the design under examination. See s 15."
+      },
+      {
+        "phrase": "Priority document",
+        "definition": "See Basic application."
+      },
+      {
+        "phrase": "Product",
+        "definition": "A tangible thing that is manufactured or hand made."
+      },
+      {
+        "phrase": "Public domain",
+        "definition": "Accessible by any person and available to be used without a licence by any person."
+      },
+      {
+        "phrase": "Publication",
+        "definition": "(in the context of design applications) – an alternative to registration. Applicants can request to have their design published instead of registered. This means the design’s full details are made available on the Register of Designs but the design cannot be certified or enforced."
+      },
+      {
+        "phrase": "Refusal",
+        "definition": "Determination that a design cannot proceed to registration, publication or certification. Designs that do not meet the relevant criteria are refused by the Registrar."
+      },
+      {
+        "phrase": "Registration",
+        "definition": "Making a design’s full details publicly available on the Register of Designs. A registered design has not been examined or certified. The design owner or a third party may request or have already requested examination of the design."
+      },
+      {
+        "phrase": "Relevant act",
+        "definition": "An action (other than a prescribed action) under the Designs Act in relation to a registered design, an application for registration or publication or any proceedings under the Act (other than court proceedings)."
+      },
+      {
+        "phrase": "Relevant party",
+        "definition": "A person who has a right to be heard before IP Australia can revoke a design. Specifically this means (a) the registered owner; (b) the person who requested examination; and (c) each person entered on the Register as having an interest in the design. See s 5."
+      },
+      {
+        "phrase": "Relevant proceeding",
+        "definition": "Court proceedings as defined under s 5 of the Act: (a) for infringement of the registered design; (b) for revocation of the registered design; or (c) in which the validity of the registration of the design is in dispute."
+      },
+      {
+        "phrase": "Request for hearing",
+        "definition": "A formal request in writing for an applicant/owner to be heard on a decision made by a delegate of the Registrar."
+      },
+      {
+        "phrase": "Restore",
+        "definition": "Revive a design which has ceased or lapsed. Designs may be restored after an extension of time."
+      },
+      {
+        "phrase": "Revoke/revocation",
+        "definition": "Ending a design registration that has been deemed invalid. Revocation usually only occurs in the following scenarios: (a) after a formal hearing about registrability; (b) after a formal hearing about ownership issues; (c) a formal surrender by the owner. Revocation will only occur after the relevant parties have been given an opportunity to be heard at a hearing."
+      },
+      {
+        "phrase": "Re-examination",
+        "definition": "Examination of a design that has already been examined. A registered design can be examined any number of times but it is likely that if a customer requests re-examination they will provide new information for consideration as to the design’s newness and distinctiveness. That re-examination is possible is clear from the language of s 63 of the Act and the Explanatory Memorandum to the Designs Bill 2002 (Notes on Individual Clauses paragraph [82])."
+      },
+      {
+        "phrase": "Right to be heard",
+        "definition": "The entitlement of certain people to heard by a hearings officer about a decision of the office with which they might disagree before a final determination is made."
+      },
+      {
+        "phrase": "Scandalous material",
+        "definition": "Something which is clearly or may reasonably be taken to be shocking or grossly offensive by a section of the community."
+      },
+      {
+        "phrase": "SoND (statement of newness and distinctiveness)",
+        "definition": "A statement provided by the applicant/owner identifying particular features of a design which are new and/or distinctive."
+      },
+      {
+        "phrase": "Third party",
+        "definition": "A person other than the applicant/owner or IP Australia. This could be a member of the public or a competitor to the owner."
+      },
+      {
+        "phrase": "Under examination",
+        "definition": "The registered design’s validity is being considered or IP Australia is awaiting a response from the owner to an examination notice. It is likely that the request for examination has been assigned to an examiner for assessment."
+      },
+      {
+        "phrase": "Under formalities",
+        "definition": "The design application is undergoing an assessment for registration or publication. It is likely to have been assigned to a formalities officer."
+      },
+      {
+        "phrase": "View (as in perspective)",
+        "definition": "A depiction of the product from a particular angle – e.g. front, left side, bottom."
+      },
+      {
+        "phrase": "Visual feature",
+        "definition": "The shape, configuration, pattern and ornamentation of a product. The ‘feel’ of a product, the materials used in the product and any indefinite dimension are not visual features. See s 7."
+      },
+      {
+        "phrase": "Withdraw (as in withdraw a design)",
+        "definition": "Where an applicant elects to discontinue their application under s 32 of the Act."
+      }
+    ]
+  }
+]
